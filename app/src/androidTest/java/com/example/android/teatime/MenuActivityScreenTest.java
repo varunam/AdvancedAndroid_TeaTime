@@ -36,7 +36,7 @@ import static org.hamcrest.Matchers.anything;
  * corresponding OrderActivity.
  *
  * This test does not utilize Idling Resources yet. If idling is set in the MenuActivity,
- * then this test will fail. See the IdlingResourcesTest for an identical test that
+ * then this test will fail. See the Im,.dlingResourcesTest for an identical test that
  * takes into account Idling Resources.
  */
 
